@@ -26,8 +26,10 @@ def create_app(config_class=Config):
     from sneakerhub.users.routes import users
     from sneakerhub.posts.routes import posts
     from sneakerhub.main.routes import main
+    from sneakerhub.errors.handlers import errors
     app.register_blueprint(users)
     app.register_blueprint(posts)
     app.register_blueprint(main)
+    app.register_blueprint(errors)
 
     return app
