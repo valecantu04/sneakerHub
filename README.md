@@ -1,4 +1,4 @@
-###### Author @ Valentin Cantu, ValeCantu04@github.com, @valentin.cantu@gmail.com
+###### Author @ Valentin Cantu, ValeCantu04@github.com, valentin.cantu@gmail.com
 
 # SneakerHub
 ## This is a project known as SneakerHub: a collective of sneaker culture and related fashion. 
